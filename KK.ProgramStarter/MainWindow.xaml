@@ -1,0 +1,24 @@
+﻿<Window x:Class="KK.ProgramStarter.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="KK.Portable Apps Program Starter" Height="250" Width="400" Loaded="Window_Loaded">
+    <Grid>
+        <DockPanel>
+        <Menu Width="Auto" Height="20" Background="#FFA9D1F4" DockPanel.Dock="Top" Name="menuBar">
+            <MenuItem Header="_Datei">
+                <MenuItem Header="_Einstellungen" Name="menuProperties"/>
+                <MenuItem Header="_Beenden" Name="menuExit" Click="menuExit_Click" SnapsToDevicePixels="False" />
+            </MenuItem>
+        </Menu>
+            <StatusBar Width="Auto" Height="20" Background="#FFA9D1F4" DockPanel.Dock="Bottom" Name="statusBarBottom" VerticalAlignment="Bottom" />
+            <DockPanel>
+                <ListView Name="lstPrograms" DockPanel.Dock="Top" Width="Auto" Height="Auto" Margin="5">
+                    <ListViewItem Content="App01" />
+                    <ListViewItem Content="App02" />
+                    <ListViewItem Content="App03" />
+                </ListView>
+                <Button Content="Starte..." Height="23" Name="btnRun" Width="175" DockPanel.Dock="Bottom" VerticalAlignment="Bottom" Margin="0,10" Click="btnRun_Click" />
+            </DockPanel>
+        </DockPanel>
+    </Grid>
+</Window>

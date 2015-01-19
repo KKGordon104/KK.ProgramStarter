@@ -1,0 +1,13 @@
+C:\Kleiber\Projekte\VisualStudio\Samples\KK.ProgramStarter\KK.ProgramStarter\bin\Debug\KK.ProgramStarter.exe
+C:\Kleiber\Projekte\VisualStudio\Samples\KK.ProgramStarter\KK.ProgramStarter\bin\Debug\KK.ProgramStarter.pdb
+C:\Kleiber\Projekte\VisualStudio\Samples\KK.ProgramStarter\KK.ProgramStarter\obj\x86\Debug\MainWindow.baml
+C:\Kleiber\Projekte\VisualStudio\Samples\KK.ProgramStarter\KK.ProgramStarter\obj\x86\Debug\MainWindow.g.cs
+C:\Kleiber\Projekte\VisualStudio\Samples\KK.ProgramStarter\KK.ProgramStarter\obj\x86\Debug\App.g.cs
+C:\Kleiber\Projekte\VisualStudio\Samples\KK.ProgramStarter\KK.ProgramStarter\obj\x86\Debug\KK.ProgramStarter_MarkupCompile.cache
+C:\Kleiber\Projekte\VisualStudio\Samples\KK.ProgramStarter\KK.ProgramStarter\obj\x86\Debug\KK.ProgramStarter.g.resources
+C:\Kleiber\Projekte\VisualStudio\Samples\KK.ProgramStarter\KK.ProgramStarter\obj\x86\Debug\KK.ProgramStarter.Properties.Resources.resources
+C:\Kleiber\Projekte\VisualStudio\Samples\KK.ProgramStarter\KK.ProgramStarter\obj\x86\Debug\KK.ProgramStarter.csproj.GenerateResource.Cache
+C:\Kleiber\Projekte\VisualStudio\Samples\KK.ProgramStarter\KK.ProgramStarter\obj\x86\Debug\KK.ProgramStarter.exe
+C:\Kleiber\Projekte\VisualStudio\Samples\KK.ProgramStarter\KK.ProgramStarter\obj\x86\Debug\KK.ProgramStarter.pdb
+C:\Kleiber\Projekte\VisualStudio\Samples\KK.ProgramStarter\KK.ProgramStarter\bin\Debug\PAPS.ini
+C:\Kleiber\Projekte\VisualStudio\Samples\KK.ProgramStarter\KK.ProgramStarter\bin\Debug\KK.ProgramStarter.exe.config
